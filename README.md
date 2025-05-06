@@ -4,8 +4,8 @@ Il progetto consiste nello sviluppo di una moderna applicazione web di social me
 progettata per favorire l’interazione tra utenti attraverso la pubblicazione di contenuti,
 la gestione del profilo e la comunicazione.
 
-Per il frontend utilizzo React & Redux
-Per il backend utilizzo Spring Boot
+Per il frontend utilizzo React & Redux;
+Per il backend utilizzo Spring Boot;
 Per il DB utilizzo PostgreSQL
 
 Nel progetto sarà possibile effettuare la registrazione e il login con autenticazione sicura, la creazione e
